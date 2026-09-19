@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skyline Live Wallpaper</string>
+    <string name="wallpaper_name">Sunset Skyline • Day &amp; Night</string>
+    <string name="wallpaper_description">Automatically transitions between sunrise, daytime, sunset and moonlit night using the phone's local system time.</string>
+</resources>

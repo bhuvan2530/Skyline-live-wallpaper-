@@ -1,3 +1,22 @@
 plugins {
-    id 'com.android.application' version '8.7.3' apply false
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.bhuvan.skylinewallpaper'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.bhuvan.skylinewallpaper'
+        minSdk 26
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+    }
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
 }
