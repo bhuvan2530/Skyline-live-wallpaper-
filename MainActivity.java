@@ -1,4 +1,5 @@
-package com.bhuvan.skylinewallpaper;
+package
+com.bhuvan.skylinewallpaper;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
